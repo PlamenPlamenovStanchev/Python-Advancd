@@ -1,0 +1,21 @@
+.py
+- - - directory_traversal.py
+- - - even_line_2.py
+- - - even_lines.py
+- - - file_delete.py
+- - - file_manipulator_2.py
+- - - file_maniupulator.py
+- - - file_openner.py
+- - - file_reader.py
+- - - file_writer.py
+- - - line_numbers.py
+- - - word_count.py
+.txt
+- - - input.txt
+- - - my_first_file.txt
+- - - number.txt
+- - - output.txt
+- - - text.txt
+- - - text.txt
+- - - text.txt
+- - - words.txt
